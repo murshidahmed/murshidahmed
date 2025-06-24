@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=murshidahmed&label=Profile%20views&color=0e75b6&style=flat" alt="murshidahmed" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development | Ethical Hacking**
+- 🌱 I’m currently learning **Full Stack Development & Ethical Hacking**
 
-- 👨‍💻 All of my projects are available at [https://github.com/murshidahmed?tab=repositories](https://github.com/murshidahmed?tab=repositories)
+- 👨‍💻 All my projects are available at [https://github.com/murshidahmed?tab=repositories](https://github.com/murshidahmed?tab=repositories)
 
 - 📫 Reach me **murshidahmedneon3@gmail.com**
 
