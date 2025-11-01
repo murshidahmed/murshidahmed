@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Murshid Ahmed</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Developer,;Computer+Science+Student,;Cybersecurity+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Developer,;Cybersecurity+Student,;Ethical+Hacking+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=murshidahmed&label=Profile%20views&color=0e75b6&style=flat" alt="murshidahmed" /> </p>
@@ -15,7 +15,7 @@
             <li>🌱 <b>I’m currently learning</b>: BSc (Hons) in Cybersecurity & Digital Forensics.</li>
             <li>🎯 <b>I’m currently focusing on</b>: Pentesting, Ethical Hacking & Cybersecuiryt, ⭐️ star the projects if you like it 🤩.</li>
             <!-- <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li> -->
-            <li>💬 <b>Ask me about anything</b>: <a href="www.linkedin.com/in/murshid-ahmed-8737ba24a">Here</a>.</li>
+            <li>💬 <b>Ask me about anything</b>: <a href="https://www.linkedin.com/in/murshid-ahmed-8737ba24a/">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Bodybuilding(💪).</li>
             <!-- <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580755107926016">Link to my UpWork Full Stack Development                                 Specialization</a>.</li>
