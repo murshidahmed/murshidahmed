@@ -12,8 +12,8 @@
 <br>
 
 <ul>
-            <li>🌱 <b>I’m currently learning</b>: BSc (Hons) in Cybersecurity & Digital Forensics.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: Pentesting, Ethical Hacking & Cybersecuiryt, ⭐️ star the projects if you like it 🤩.</li>
+            <li>🌱 <b>I’m currently following</b>: BSc (Hons) in Cybersecurity & Digital Forensics.</li>
+            <li>🎯 <b>I’m currently focusing on</b>: Pentesting, Ethical Hacking & Cybersecurity, ⭐️ star the projects if you like it 🤩.</li>
             <!-- <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li> -->
             <li>💬 <b>Ask me about anything</b>: <a href="https://www.linkedin.com/in/murshid-ahmed-8737ba24a/">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
